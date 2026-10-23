@@ -9,6 +9,12 @@
   The published page: <a href="https://atlas7.app/skills">atlas7.app/skills</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/graded-20%20skills-blue" alt="20 skills graded">
+  <img src="https://img.shields.io/badge/verdicts-18%20CLEAN%20%2F%202%20DECEPTIVE-red" alt="18 clean, 2 deceptive">
+  <img src="https://img.shields.io/badge/standard-v1.0%20frozen-black" alt="Standard v1.0 frozen">
+</p>
+
 ![The graded record at a glance](assets/graded-record-infographic.svg)
 
 ## What this is
@@ -71,6 +77,10 @@ The six dimensions: **D1** claims vs content · **D2** permissions surface · **
 - Corpus and pins: [CORPUS.md](CORPUS.md), [SOURCES.md](SOURCES.md)
 
 Grades apply to the pinned commits only. A later version of any skill is a new object and would be graded on its own record.
+
+## Cite this record
+
+DeltaVerdict (2026). *Graded Record: Top 20 Agent Skills.* Skill Trust Grading Standard v1.0, frozen 2026-10-23 (sha256 `3471f47a2fb8d15a0d461573753372adbe576e834ffbd1512762055b913516ba`). Published page: https://atlas7.app/skills · Evidence: https://github.com/aitrailblazer/skills-record
 
 ---
 
