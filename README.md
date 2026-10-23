@@ -34,26 +34,28 @@ The 20 most-installed skills on [skills.sh](https://skills.sh) (all-time board, 
 
 | Rank | Skill | Publisher | Installs | D1 | D2 | D3 | D4 | D5 | D6 | Verdict | Fleet ruling |
 |---:|---|---|---:|---|---|---|---|---|---|---|---|
-| 1 | find-skills | vercel-labs | 4.0M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 2 | grill-me | mattpocock | 1.4M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 3 | agent-browser | vercel-labs | 1.2M | PASS | PASS | PASS | PASS | FLAG | PASS | CLEAN | RUN |
-| 4 | grill-with-docs | mattpocock | 1.2M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 5 | hyperframes-cli | heygen-com | 1.2M | PASS | FLAG | PASS | PASS | FAIL | PASS | DECEPTIVE | DO NOT RUN |
-| 6 | hyperframes | heygen-com | 1.2M | PASS | FLAG | FLAG | FLAG | FAIL | PASS | DECEPTIVE | DO NOT RUN |
-| 7 | improve-codebase-architecture | mattpocock | 1.2M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 8 | tdd | mattpocock | 1.1M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 9 | media-use | heygen-com | 1.1M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 10 | reddit-automation | flowkit-labs | 1.1M | PASS | PASS | PASS | PASS | FLAG | PASS | CLEAN | RUN |
-| 11 | setup-matt-pocock-skills | mattpocock | 1.1M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 12 | handoff | mattpocock | 1.0M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 13 | frontend-design | anthropics | 1.0M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 14 | hyperframes-animation | heygen-com | 1.0M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 15 | design-mobile-apps | designed-by-ai | 993.1K | PASS | PASS | FLAG | PASS | PASS | PASS | CLEAN | RUN SANDBOXED |
-| 16 | triage | mattpocock | 988.0K | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 17 | prototype | mattpocock | 985.1K | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 18 | hyperframes-registry | heygen-com | 980.6K | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 19 | grilling | mattpocock | 977.6K | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
-| 20 | hyperframes-core | heygen-com | 930.4K | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 1 | [find-skills](https://github.com/vercel-labs/skills/tree/a80e4c9d12d607631249d4d7d059f835d4b2f13a/skills/find-skills) | vercel-labs | 4.0M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 2 | [grill-me](https://github.com/mattpocock/skills/tree/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/productivity/grill-me) | mattpocock | 1.4M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 3 | [agent-browser](https://github.com/vercel-labs/agent-browser/tree/372ac5ce20fab885dbf45ee0c9d510ec8c3b6fdb/skills/agent-browser) | vercel-labs | 1.2M | PASS | PASS | PASS | PASS | FLAG | PASS | CLEAN | RUN |
+| 4 | [grill-with-docs](https://github.com/mattpocock/skills/tree/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/engineering/grill-with-docs) | mattpocock | 1.2M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 5 | [hyperframes-cli](https://github.com/heygen-com/hyperframes/tree/6ad7c82d2175d018a93a85e96883dc31231b9884/skills/hyperframes-cli) | heygen-com | 1.2M | PASS | FLAG | PASS | PASS | FAIL | PASS | DECEPTIVE | DO NOT RUN |
+| 6 | [hyperframes](https://github.com/heygen-com/hyperframes/tree/6ad7c82d2175d018a93a85e96883dc31231b9884/skills/hyperframes) | heygen-com | 1.2M | PASS | FLAG | FLAG | FLAG | FAIL | PASS | DECEPTIVE | DO NOT RUN |
+| 7 | [improve-codebase-architecture](https://github.com/mattpocock/skills/tree/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/engineering/improve-codebase-architecture) | mattpocock | 1.2M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 8 | [tdd](https://github.com/mattpocock/skills/tree/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/engineering/tdd) | mattpocock | 1.1M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 9 | [media-use](https://github.com/heygen-com/hyperframes/tree/6ad7c82d2175d018a93a85e96883dc31231b9884/skills/media-use) | heygen-com | 1.1M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 10 | [reddit-automation](https://github.com/flowkit-labs/skills/tree/0c9e2b63f504a296a86e45ed3a60a426dd979ca6/reddit-automation) | flowkit-labs | 1.1M | PASS | PASS | PASS | PASS | FLAG | PASS | CLEAN | RUN |
+| 11 | [setup-matt-pocock-skills](https://github.com/mattpocock/skills/tree/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/engineering/setup-matt-pocock-skills) | mattpocock | 1.1M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 12 | [handoff](https://github.com/mattpocock/skills/tree/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/productivity/handoff) | mattpocock | 1.0M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 13 | [frontend-design](https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/frontend-design) | anthropics | 1.0M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 14 | [hyperframes-animation](https://github.com/heygen-com/hyperframes/tree/207c8a4daf6480d697f203784f1fd422727569e3/skills/hyperframes-animation) | heygen-com | 1.0M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 15 | [design-mobile-apps](https://github.com/designed-by-ai/skills/tree/03c20aec6dcedb5fabfb03dc37982eb52ef19ed6/skills/design-mobile-apps) | designed-by-ai | 993.1K | PASS | PASS | FLAG | PASS | PASS | PASS | CLEAN | RUN SANDBOXED |
+| 16 | [triage](https://github.com/mattpocock/skills/tree/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/engineering/triage) | mattpocock | 988.0K | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 17 | [prototype](https://github.com/mattpocock/skills/tree/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/engineering/prototype) | mattpocock | 985.1K | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 18 | [hyperframes-registry](https://github.com/heygen-com/hyperframes/tree/6ad7c82d2175d018a93a85e96883dc31231b9884/skills/hyperframes-registry) | heygen-com | 980.6K | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 19 | [grilling](https://github.com/mattpocock/skills/tree/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/productivity/grilling) | mattpocock | 977.6K | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+| 20 | [hyperframes-core](https://github.com/heygen-com/hyperframes/tree/207c8a4daf6480d697f203784f1fd422727569e3/skills/hyperframes-core) | heygen-com | 930.4K | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
+
+Skill names in this table link to the graded source folder at the pinned commit.
 
 The six dimensions: **D1** claims vs content · **D2** permissions surface · **D3** credential asks · **D4** outbound data · **D5** instruction hygiene · **D6** provenance. Every mark in the full record carries its quoted evidence from the pinned source.
 
