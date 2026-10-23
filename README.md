@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/standard-v1.0%20frozen-black" alt="Standard v1.0 frozen">
 </p>
 
-![The graded record at a glance](assets/graded-record-infographic.png)
+![The graded record at a glance](assets/graded-record-infographic-v2.png)
 
 ## What this is
 
