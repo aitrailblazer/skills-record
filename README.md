@@ -33,7 +33,7 @@ The 20 most-installed skills on [skills.sh](https://skills.sh) (all-time board, 
 ## Results
 
 | Rank | Skill | Publisher | Category | Installs | D1 | D2 | D3 | D4 | D5 | D6 | Verdict | Fleet ruling |
-|---:|---|---|---|---|---:|---|---|---|---|---|---|---|---|
+|---:|---|---|---|---:|---|---|---|---|---|---|---|
 | 1 | [find-skills](https://github.com/vercel-labs/skills/tree/a80e4c9d12d607631249d4d7d059f835d4b2f13a/skills/find-skills) | vercel-labs | Discovery | 4.0M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
 | 2 | [grill-me](https://github.com/mattpocock/skills/tree/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/productivity/grill-me) | mattpocock | Interview | 1.4M | PASS | PASS | PASS | PASS | PASS | PASS | CLEAN | RUN |
 | 3 | [agent-browser](https://github.com/vercel-labs/agent-browser/tree/372ac5ce20fab885dbf45ee0c9d510ec8c3b6fdb/skills/agent-browser) | vercel-labs | Browser | 1.2M | PASS | PASS | PASS | PASS | FLAG | PASS | CLEAN | RUN |
