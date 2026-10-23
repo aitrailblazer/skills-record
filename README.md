@@ -1,0 +1,3 @@
+# Graded Record: Top 20 Agent Skills
+
+This folder holds the evidence for DeltaVerdict's graded record of the 20 most-installed agent skills on skills.sh, graded for trust under the Skill Trust Grading Standard v1.0, frozen on 2026-10-23 before any grading (freeze sha256: 3471f47a2fb8d15a0d461573753372adbe576e834ffbd1512762055b913516ba). The published page is https://atlas7.app/skills. STANDARD.md is the frozen standard; CORPUS.md and SOURCES.md record the corpus snapshot and the pinned source commits; FINAL-GRADES.md is the adjudicated record (18 CLEAN, 2 DECEPTIVE); pass-a.md and pass-b.md are the two independent blind grading passes the final record was adjudicated from; FREEZE.md and FREEZE.sha256 record the freeze.
