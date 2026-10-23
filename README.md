@@ -23,6 +23,8 @@ A skill is a small pack of instructions a person installs into their AI assistan
 
 The 20 most-installed skills on [skills.sh](https://skills.sh) (all-time board, read October 23, 2026) were graded against one fixed standard, the **Skill Trust Grading Standard v1.0**, written down and frozen before grading began. The grading asked three plain questions of every skill: does it do what its description says, does it ask only for the access its job needs, and does it name everything it sends out.
 
+Announcement, with the infographic: [the graded record post on X](https://x.com/AITrailblazerQ/status/2113768890610139421)
+
 ## Key findings
 
 - **18 of 20 skills graded CLEAN.**
